@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory.jsx'
 import Pricing from './pages/Pricing.jsx'
 import InterviewReport from './pages/InterviewReport.jsx'
 
-export const BackendUrl = "http://localhost:8000"
+export const BackendUrl = "https://interview-ai-bot.onrender.com"
 
 const App = () => {
 
